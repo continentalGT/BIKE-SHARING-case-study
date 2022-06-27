@@ -7,12 +7,17 @@ BUSINESS TASK-Business task is to convert Casual members to Annual members to in
 -Insights have been driven from a study or analytics of the data provided .
 
 ASK
+
 This phase requires asking right,relevant,measurable questions.Is the data enough to complete Buisness task?.What data is describing?.etc.
 
 Prepare
+
+
 this phase data is collected from https://divvy-tripdata.s3.amazonaws.com/index.html
 
 Process
+
+
 This phase data cleaning is Done.Anomalies are removed.
 -Duplicates removed
 -irrelevant fields removed.
@@ -33,6 +38,8 @@ ANALYSIS
 
 
 Visualization 
+
+
 -Visualization is done after analysis,DASHBOARD is created.Presentation is formed on Power point.
 -Tableau Profile
 -https://public.tableau.com/app/profile/shubhankar.sharma8089#!/?newProfile=&activeTab=0
