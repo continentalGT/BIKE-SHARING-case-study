@@ -41,13 +41,20 @@ Visualization
 
 
 -Visualization is done after analysis,DASHBOARD is created.Presentation is formed on Power point.
+
 -Tableau Profile
 -https://public.tableau.com/app/profile/shubhankar.sharma8089#!/?newProfile=&activeTab=0
+
+
 -CASE STUDY DASHBOARD
 -https://public.tableau.com/views/CASE_STUDY_BIKE_SHARING_GOOGLE/BIKE_SHARE_CASE_STUDY_DASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link
 ACT
+
+
 -Recommendations are provided in presentation along with limitations and Author's Note.
 
 -Happy to have feedbacks
+
 -Happy Learning!!
+
 --THE END_____
